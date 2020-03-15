@@ -1,3 +1,12 @@
 li {
   list-style: none;
 }
+
+.header{
+  background-color: #b0c4de;
+  color:#000000;
+}
+
+.fooder{
+  background-color:#f5deb3;
+}
