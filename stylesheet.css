@@ -1,4 +1,9 @@
 li {
   list-style: none;
-  font-size: 30px;
+  font-size: 18px;
 }
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
