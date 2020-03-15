@@ -1,13 +1,4 @@
 li {
   list-style: none;
-}
-
-.head {
-  background-color: #b0c4de;
-  color:#fff;
-}
-
-.footer {
-  background-color: #2f5167;
-  color: #fff;
+  font-size: 20px;
 }
