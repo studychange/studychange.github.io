@@ -29,3 +29,12 @@ li {
   color: #fff;
   height: 90px;
 }
+
+.footer-logo{
+  font-size:40px;
+  padding:20px 30px
+}
+
+.footer-list{
+  float: left;
+}
