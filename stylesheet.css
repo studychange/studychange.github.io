@@ -1,5 +1,6 @@
 li {
   list-style: none;
+  float: left;
 }
 
 
@@ -12,11 +13,10 @@ li {
 .header-logo{
   font-size:40px;
   padding:20px 30px
-}
-
-.header-list{
   float: left;
 }
+
+
 
 .main{
   background-color:#ffffff
